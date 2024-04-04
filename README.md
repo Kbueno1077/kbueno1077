@@ -17,10 +17,10 @@
   <a href="https://mui.com/material-ui/" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/material.svg" alt="Material UI" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://nextui.org/" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/nextui.jpg" alt="Next UI" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="https://redux.js.org/" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/redux.svg" alt="Redux" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://zustand-demo.pmnd.rs/" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/zustand.jpg" alt="Zustand" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://zustand-demo.pmnd.rs/" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/zustand.jpg" alt="Zustand" height="40" width="60" /></a>&nbsp;&nbsp;
   <a href="https://www.oracle.com/java" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
-  <a href="https://xata.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/xata.svg" alt="Xata" width="40" height="40"/></a>&nbsp;&nbsp; 
+  <a href="https://xata.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/caluff/caluff/blob/main/assests/xata.svg" alt="Xata" width="40" height="40"/></a>&nbsp;&nbsp; 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>&nbsp;&nbsp; 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
 </p>
