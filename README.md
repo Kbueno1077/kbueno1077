@@ -1,4 +1,4 @@
-<h2 align="center">I'm Daniel Caluff 👋, a Frontend Developer proficient in React & Nextjs 💻</h2>
+<h2 align="center">I'm Kevin Bueno 👋, a Frontend Developer proficient in React & Nextjs 💻</h2>
 <h6> <li>🔭 I’m currently senior frontend developer freelance</li></h6>
 <!-- <h6> <li>🌱 I’m currently learning Three Js</li></h6> -->
 
