@@ -16,11 +16,11 @@
   <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://mui.com/material-ui/" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/material.svg" alt="Material UI" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://nextui.org/" target="blank"><img align="top" src="https://raw.githubusercontent.com/Kbueno1077/kbueno1077/main/nextUI.png" alt="Next UI" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://redux.js.org/" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/redux.svg" alt="Redux" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://redux.js.org/" target="blank"><img align="top" src="https://raw.githubusercontent.com/Kbueno1077/kbueno1077/0bf0e4bdc46d6cbea5a47065453e9e7e61366ea8/redux.svg" alt="Redux" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="https://zustand-demo.pmnd.rs/" target="blank"><img align="top" src="https://raw.githubusercontent.com/Kbueno1077/kbueno1077/b32749ba57d1eef6107be762fd18c61232f2bcfa/zustand.svg" alt="Zustand" height="40" width="60" /></a>&nbsp;&nbsp;
   <a href="https://www.oracle.com/java" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
-  <a href="https://xata.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/caluff/caluff/blob/main/assests/xata.svg" alt="Xata" width="40" height="40"/></a>&nbsp;&nbsp; 
+  <a href="https://xata.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Kbueno1077/kbueno1077/0bf0e4bdc46d6cbea5a47065453e9e7e61366ea8/xata.svg" alt="Xata" width="40" height="40"/></a>&nbsp;&nbsp; 
   <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Kbueno1077/kbueno1077/cae9ee93ee4677f9702f69856a63c42885586463/supabase-seeklogo.svg" alt="Supabase" width="40" height="40"/></a>&nbsp;&nbsp; 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>&nbsp;&nbsp; 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -33,7 +33,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.jetbrains.com/webstorm/" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/webstorm.svg" alt="Web Storm" height="40" width="40" /></a>&nbsp;&nbsp;
  <a href="https://code.visualstudio.com/" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/vscode.svg" alt="VS Code" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/windows.svg" alt="Windows" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/windows/?r=1" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/windows.svg" alt="Windows" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 <h2 align="left">Connect with me:</h3>
