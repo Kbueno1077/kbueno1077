@@ -38,8 +38,9 @@
 
 <h2 align="left">Connect with me:</h3>
 <p align="">
-  <a href="https://www.linkedin.com/in/kevin-bueno-0a8809218/" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/linkedin.svg" alt="Kevin Bueno" height="40" width="40" /></a>&nbsp;&nbsp;
-  <a href="mailto:kbueno1077@gmail.com" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/gmail.svg" alt="Kevin Bueno" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kevin-bueno-0a8809218/" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/linkedin.svg" alt="Kevin Bueno Linkedin" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="mailto:kbueno1077@gmail.com" target="blank"><img src="https://github.com/caluff/caluff/blob/main/assests/gmail.svg" alt="Kevin Bueno Mail" height="40" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.kbueno-studio.com/" target="blank"><img src="https://raw.githubusercontent.com/Kbueno1077/kbueno1077/main/1.png" alt="Kevin Bueno Portfolio" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 
