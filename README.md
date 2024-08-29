@@ -1,5 +1,5 @@
 <h2 align="center">I'm Kevin Bueno 👋, a Frontend Developer proficient in React & Nextjs 💻</h2>
-<h6> <li>🔭 I’m currently senior frontend developer freelance</li></h6>
+<h6> <li>🔭 I’m currently frontend web developer freelancer, specialized with React</li></h6>
 <!-- <h6> <li>🌱 I’m currently learning Three Js</li></h6> -->
 
 <img width="100%" loading="lazy" src="https://github.com/caluff/caluff/blob/main/assests/rainbow-superthin.webp"/>
