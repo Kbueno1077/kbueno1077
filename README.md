@@ -8,12 +8,13 @@
 <h4 align="left">Skills:</h4>
 <p align=""> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>&nbsp;&nbsp;
+
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;&nbsp;
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://mui.com/material-ui/" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/material.svg" alt="Material UI" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://nextui.org/" target="blank"><img align="top" src="https://raw.githubusercontent.com/Kbueno1077/kbueno1077/main/nextUI.png" alt="Next UI" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="https://redux.js.org/" target="blank"><img align="top" src="https://raw.githubusercontent.com/Kbueno1077/kbueno1077/0bf0e4bdc46d6cbea5a47065453e9e7e61366ea8/redux.svg" alt="Redux" height="40" width="40" /></a>&nbsp;&nbsp;
