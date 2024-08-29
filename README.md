@@ -15,7 +15,7 @@
   <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://mui.com/material-ui/" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/material.svg" alt="Material UI" height="40" width="40" /></a>&nbsp;&nbsp;
-    <a href="https://nextui.org/" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/nextui.jpg" alt="Next UI" height="40" width="40" /></a>&nbsp;&nbsp;
+    <a href="https://nextui.org/" target="blank"><img align="top" src="https://raw.githubusercontent.com/Kbueno1077/kbueno1077/main/nextUI.png" alt="Next UI" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="https://redux.js.org/" target="blank"><img align="top" src="https://github.com/caluff/caluff/blob/main/assests/redux.svg" alt="Redux" height="40" width="40" /></a>&nbsp;&nbsp;
   <a href="https://zustand-demo.pmnd.rs/" target="blank"><img align="top" src="https://raw.githubusercontent.com/Kbueno1077/kbueno1077/b32749ba57d1eef6107be762fd18c61232f2bcfa/zustand.svg" alt="Zustand" height="40" width="60" /></a>&nbsp;&nbsp;
   <a href="https://www.oracle.com/java" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp;&nbsp;
