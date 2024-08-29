@@ -5,7 +5,7 @@
 <img width="100%" loading="lazy" src="https://github.com/caluff/caluff/blob/main/assests/rainbow-superthin.webp"/>
 
 <h2 align="left">Languages and Tools:</h2>
-<h4 align="left">Skills:</h4>
+<h4 align="left">Tech:</h4>
 <p align=""> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>&nbsp;&nbsp;
