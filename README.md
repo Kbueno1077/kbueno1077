@@ -68,7 +68,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Kbueno1077&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kevin Bueno) 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](kbueno1077@gmail.com) 
-
