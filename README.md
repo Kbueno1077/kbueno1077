@@ -113,9 +113,11 @@ I make it a point to learn current topics and stay up to date with where the ind
 
 ## 📈 Contribution Activity
 
+> 🔒 Note: my work at **Front10**, **WorkInWeb**, and other professional / client projects lives in private or company-owned repositories, so a large part of my day-to-day contributions is **not reflected** in this GitHub account.
+
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kbueno1077&theme=react-dark&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kbueno1077&theme=react-dark&hide_border=true&area=true&days=365)
 
 </div>
 
