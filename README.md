@@ -111,11 +111,11 @@ I make it a point to learn current topics and stay up to date with where the ind
 
 </div>
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kbueno1077&theme=react&no-frame=true&no-bg=false&margin-w=4)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kbueno1077&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -124,13 +124,5 @@ I make it a point to learn current topics and stay up to date with where the ind
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-### 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Kbueno1077&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 </div>
