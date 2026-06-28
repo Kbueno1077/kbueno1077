@@ -117,7 +117,7 @@ I make it a point to learn current topics and stay up to date with where the ind
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kbueno1077&theme=react-dark&hide_border=true&area=true&days=365)
+![Monthly contributions over the last 12 months](https://raw.githubusercontent.com/Kbueno1077/kbueno1077/output/contributions-monthly.svg)
 
 </div>
 
