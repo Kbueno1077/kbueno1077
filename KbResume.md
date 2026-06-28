@@ -75,7 +75,7 @@ Dynamic Frontend Developer specializing in JavaScript and TypeScript, with a str
 ## Languages
 
 - Spanish (native)
-- English
+- English (professional working proficiency)
 
 ---
 

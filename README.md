@@ -24,7 +24,41 @@
 - 👯 I love collaborating on innovative web projects, especially those with great **UI/UX**.
 - 🤖 I work **AI-assisted, not AI-dependent** — I use tools like Cursor & Copilot to move faster, but I read, review, and own every line that ships.
 - 🌱 Currently sharpening my skills with new UI frameworks and a bit of **React Native**.
+- 🌎 **Native Spanish** speaker · **Professional English** speaker.
 - 📄 [View my resume](./KbResume.md) · 💬 Ask me about React, Next.js, or building delightful interfaces.
+
+<img width="100%" loading="lazy" src="https://raw.githubusercontent.com/caluff/caluff/main/assests/rainbow-superthin.webp" alt="rainbow divider"/>
+
+## 🚀 Featured Projects
+
+### Professional & Client Work
+
+| Project | Description | Stack | Live |
+| --- | --- | --- | --- |
+| **WorkInWeb** | My venture building simple, affordable websites for small businesses. | `Next.js` `TypeScript` `Tailwind` | [Visit](https://weworkinweb.com/en/) |
+| **Airline Booking Engines** | Lead frontend on a highly customizable flight search & booking platform, white-labeled for multiple airlines. | `React` `TypeScript` `Agile` | [Azores](https://book.azoresairlines.pt/booking/) · [Cyprus](https://book.cyprusairways.com/booking/) |
+| **Woxo** | Built modules and a core video library for an online video creation tool. | `React` `TypeScript` `JavaScript` | [Visit](https://woxo.tech/) |
+
+#### 🌐 Client Sites built with WorkInWeb
+
+| Client | Type | Live |
+| --- | --- | --- |
+| **Kindly Hearts Homecare** | Home care services | [Visit](https://www.kindlyheartshomecare.com/) |
+| **The Florida Clinics Aesthetics** | Aesthetics clinic | [Visit](https://www.thefloridaclinicsaesthetics.com/) |
+| **Snappy Kit** | Product / SaaS | [Visit](https://snappy-kit.com/) |
+| **EZ2Chart** | Charting tool | [Visit](https://www.ez2chart.com/) |
+
+### Personal Projects
+
+| Project | Description | Stack | Live |
+| --- | --- | --- | --- |
+| **Portfolio** | My personal portfolio and design studio site. | `TypeScript` `Next.js` | [Visit](https://www.kbueno-studio.com/) |
+| **Lumidraw** | A drawing / sketching web app. | `TypeScript` `Next.js` | [Visit](https://lumidraw.kbueno-studio.com/) |
+| **Beer Warehouse** | App to manage and track a beer collection. | `TypeScript` `React` | [Visit](https://beer-warehouse.kbueno-studio.com/en) · [Code](https://github.com/Kbueno1077/beer-warehouse-mobile) |
+| **Trip Planner** | A web app for planning and organizing trips. | `TypeScript` `React` | [Demo](https://trip-planner-mocha.vercel.app) · [Code](https://github.com/Kbueno1077/trip-planner) |
+| **Gym Stats** | Track and visualize workout progress. | `TypeScript` `React` | [Demo](https://gym-stats-rose.vercel.app) · [Code](https://github.com/Kbueno1077/gym-stats) |
+| **Olympus Dominoes** | A dominoes game & scoring app. | `JavaScript` `React` | [Demo](https://olympus-dominoes-virid.vercel.app) · [Code](https://github.com/Kbueno1077/olympus-dominoes) |
+| **Next.js AI SDK** | Experiments with the Vercel AI SDK in Next.js. | `TypeScript` `Next.js` `AI` | [Demo](https://next-js-aisdk.vercel.app) · [Code](https://github.com/Kbueno1077/next-js-aisdk) |
 
 <img width="100%" loading="lazy" src="https://raw.githubusercontent.com/caluff/caluff/main/assests/rainbow-superthin.webp" alt="rainbow divider"/>
 
