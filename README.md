@@ -117,7 +117,7 @@ I make it a point to learn current topics and stay up to date with where the ind
 
 <div align="center">
 
-![Monthly contributions over the last 12 months](https://raw.githubusercontent.com/Kbueno1077/kbueno1077/output/contributions-monthly.svg)
+![Contribution calendar over the last 12 months](https://ghchart.rshah.org/409ba5/Kbueno1077)
 
 </div>
 
