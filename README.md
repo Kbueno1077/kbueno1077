@@ -26,11 +26,33 @@
 - 🌱 Currently sharpening my skills with new UI frameworks and a bit of **React Native**.
 - 📄 [View my resume](./KbResume.md) · 💬 Ask me about React, Next.js, or building delightful interfaces.
 
-<img width="100%" loading="lazy" src="https://raw.githubusercontent.com/Kbueno1077/kbueno1077/main/1.png" alt="divider" style="display:none"/>
-
----
+<img width="100%" loading="lazy" src="https://raw.githubusercontent.com/caluff/caluff/main/assests/rainbow-superthin.webp" alt="rainbow divider"/>
 
 ## 🛠️ Tech Stack
+
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://nextui.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Kbueno1077/kbueno1077/main/nextUI.png" alt="nextui" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Kbueno1077/kbueno1077/b32749ba57d1eef6107be762fd18c61232f2bcfa/zustand.svg" alt="zustand" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Kbueno1077/kbueno1077/cae9ee93ee4677f9702f69856a63c42885586463/supabase-seeklogo.svg" alt="supabase" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>&nbsp;&nbsp;
+</p>
+
+<details>
+<summary><b>📋 Full breakdown by category</b></summary>
 
 #### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -68,7 +90,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-#### Staying Current — AI-Assisted Development
+</details>
+
+---
+
+## 🤖 Staying Current — AI-Assisted Development
+
 I make it a point to learn current topics and stay up to date with where the industry is heading — which today means working fluently with AI tooling. I treat these as a fast pair-programmer for scaffolding, refactors, and tests, while reviewing, testing, and owning every line that ships.
 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
