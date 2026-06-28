@@ -150,9 +150,9 @@ I make it a point to learn current topics and stay up to date with where the ind
 
 <div align="center">
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kbueno1077&theme=react&hide_border=true&include_all_commits=false&count_private=false)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kbueno1077&theme=react&hide_border=true&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kbueno1077&theme=react&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kbueno1077&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kbueno1077&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
