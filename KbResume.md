@@ -14,15 +14,19 @@ Dynamic Frontend Developer specializing in JavaScript and TypeScript, with a str
 
 ## Skills
 
-**Frontend:** HTML, CSS, Tailwind, JavaScript, TypeScript, React.js, Next.js, Astro.js, React Native
+**Languages:** TypeScript, JavaScript, HTML, CSS, Java
 
-**UI Libraries:** Material UI, NextUI
+**Frameworks & Libraries:** React.js, Next.js, Astro.js, React Native, Svelte, Vue.js
 
-**State Management:** Redux, Zustand
+**Styling & UI:** Tailwind CSS, Material UI, HeroUI, shadcn/ui
 
-**Backend & Database:** Node.js, Supabase, MongoDB, PostgreSQL, NextAuth, Xata
+**State Management:** Redux, Zustand, Recoil, React Context
 
-**Testing & Tools:** Jest, Git, Postman, Vercel, Agile methodologies
+**Backend & Database:** Supabase, MongoDB, PostgreSQL, Neon, Convex, Xata
+
+**Testing:** Jest, React Testing Library
+
+**Tools:** Cursor, VS Code, WebStorm, Git, Postman, Vercel, Agile methodologies
 
 **AI-Assisted Development:** Cursor, GitHub Copilot, ChatGPT, Claude, Gemini — used for scaffolding, refactoring, and test generation, with human review and ownership of all shipped code
 
@@ -46,6 +50,7 @@ Dynamic Frontend Developer specializing in JavaScript and TypeScript, with a str
 
 - Founded WorkInWeb as a passion project to create simple, affordable websites for small businesses.
 - Leverage web development and design skills to help businesses establish a strong online presence without the high costs typically associated with web development.
+- Delivered client sites including [Kindly Hearts Homecare](https://www.kindlyheartshomecare.com/), [The Florida Clinics Aesthetics](https://www.thefloridaclinicsaesthetics.com/), [Snappy Kit](https://snappy-kit.com/), and [EZ2Chart](https://www.ez2chart.com/).
 
 *Link: [WorkInWeb](https://weworkinweb.com/en/)*
 
@@ -59,6 +64,18 @@ Dynamic Frontend Developer specializing in JavaScript and TypeScript, with a str
 - Developed and enhanced a core video library for the seamless playback and customization of in-flight video.
 
 *Link: [Woxo](https://woxo.tech/)*
+
+---
+
+## Selected Projects
+
+- **Portfolio** — Personal portfolio and design studio site. *(TypeScript, Next.js)* — [kbueno-studio.com](https://www.kbueno-studio.com/)
+- **Lumidraw** — Drawing / sketching web app. *(TypeScript, Next.js)* — [lumidraw.kbueno-studio.com](https://lumidraw.kbueno-studio.com/)
+- **Beer Warehouse** — App to manage and track a beer collection. *(TypeScript, React)* — [beer-warehouse.kbueno-studio.com](https://beer-warehouse.kbueno-studio.com/en)
+- **Trip Planner** — Web app for planning and organizing trips. *(TypeScript, React)*
+- **Gym Stats** — Track and visualize workout progress. *(TypeScript, React)*
+- **Olympus Dominoes** — Dominoes game & scoring app. *(JavaScript, React)*
+- **Next.js AI SDK** — Experiments with the Vercel AI SDK in Next.js. *(TypeScript, Next.js)*
 
 ---
 
